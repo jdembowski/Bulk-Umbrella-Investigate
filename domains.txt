@@ -1,0 +1,3 @@
+google.com,1
+cnn.com,1
+wordpress.org,1
